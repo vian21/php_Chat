@@ -24,4 +24,4 @@ To edit configurations such database username, password, and name goto '/modules
 😁 Have a nice time
 
 
-Made with 💔 for Micka Carole by Patrick Igiraneza
+Made with ❤ for Micka Carole by Patrick Igiraneza
